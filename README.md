@@ -2,8 +2,8 @@
 This project is a localized RAG application designed to process PDF documents and verify whether LLM-generated answers are strcitly grounded in the source text or contains hallucinations.
 
 It uses LLM in two roles:
-## Generator - generates answer
-## Evaluator (LLM-as-a-Judge) - reviews answer and generates confidence score
+Generator - generates answer.
+Evaluator (LLM-as-a-Judge) - reviews answer and generates confidence score.
 
 The system provides confidence score and structural label to every response generated-
 
